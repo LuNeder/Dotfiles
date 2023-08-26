@@ -15,6 +15,7 @@ On this repository you'll find the dotfiles for my desktop
 - XFCE
 - Polybar
 - Rofi
+- [feather font](https://github.com/adi1090x/polybar-themes/blob/master/fonts/feather.ttf)
 - Maybe more
 
 ## Dependencies
@@ -31,7 +32,7 @@ Make sure you have installed
 - Maybe something else I forgot
 
 ## Instaling
-- Make sure you've installed all dependencies
+- Make sure you've installed all dependencies and that they're all working properly
 - Make compiz your default compositor
   ```bash
   xfconf-query -c xfce4-session -p /sessions/Failsafe/Client1_Command -t string -sa xfsettingsd
@@ -39,8 +40,9 @@ Make sure you have installed
   xfconf-query -c xfce4-session -p /sessions/Failsafe/Client0_Command -t string -s compiz -t string -s ccp
 
   ```
-- Move the polybar `config.ini` file to `~/.config/polybar/` and `.restpolymain` to your home
-- Select
+- Move Polybar's `config.ini` file to `~/.config/polybar/` and `.restpolymain` to your home
+- Move (and replace) Rofi's `launcher.sh` and `style-1.rasi` to `~/.config/rofi/launchers/type-3/`
+- Open CompizConf and import Compiz's file
 
 (WIP)
 
