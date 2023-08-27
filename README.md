@@ -15,7 +15,6 @@ On this repository you'll find the dotfiles for my desktop
 - XFCE
 - Polybar
 - Rofi
-- [feather font](https://github.com/adi1090x/polybar-themes/blob/master/fonts/feather.ttf)
 - Maybe more
 
 ## Dependencies
@@ -30,6 +29,7 @@ Make sure you have installed
 - [adi1090x's themes for Rofi](https://github.com/adi1090x/rofi)
 - ULauncher
 - Plank
+- [feather font](https://github.com/adi1090x/polybar-themes/blob/master/fonts/feather.ttf)
 - Maybe something else I forgot
 
 ## Instaling
