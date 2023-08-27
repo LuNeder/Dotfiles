@@ -48,6 +48,13 @@ Make sure you have installed
 - Import the xfce-panel file into your xfce-panel backup page
 - The Plank configuration is basically default
 - Configure keyboard shortcuts as you please
+- For the wallpaper, download [Mutazione](https://store.steampowered.com/app/1080750/Mutazione/) and take a screenshot in your preferred location. My current one has Kai on the Papu Tree
+- You'll probably have to change the temperature and gpu modules in polybar to fit your system
 - I think that's it!
 
+If you're having any problems or if there's anything missing to get to a similar result to mine, let me know!
+
+## Credits
+The rofi configuration was fully made by [adi1090x](https://github.com/adi1090x/), all I did was change the opacity.
+The skydome for compiz was posted by someone on xfce-look.org, but I can't seem to find it now. If you know who made it, pls let me know and I'll add it!
 
