@@ -56,5 +56,5 @@ If you're having any problems or if there's anything missing to get to a similar
 
 ## Credits
 The rofi configuration was fully made by [adi1090x](https://github.com/adi1090x/), all I did was change the opacity.
-The skydome for compiz was posted by someone on xfce-look.org, but I can't seem to find it now. If you know who made it, pls let me know and I'll add it!
+The skydome for compiz was made by [BARDEG](https://www.xfce-look.org/p/1003000/) on xfce-look.org.
 
