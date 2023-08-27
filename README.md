@@ -47,6 +47,7 @@ Make sure you have installed
 - Add `polybar main` to you XFCE's startup programs on settings
 - Import the xfce-panel file into your xfce-panel backup page
 - The Plank configuration is basically default
+- Install and apply ULauncher theme [WhiteSur Light](https://gist.github.com/gornostal/02a232e6e560da7946c053555ced6cce?permalink_comment_id=3649821#gistcomment-3649821)
 - Configure keyboard shortcuts as you please
 - For the wallpaper, download [Mutazione](https://store.steampowered.com/app/1080750/Mutazione/) and take a screenshot in your preferred location. My current one has Kai on the Papu Tree
 - You'll probably have to change the temperature and gpu modules in polybar to fit your system
