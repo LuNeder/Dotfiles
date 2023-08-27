@@ -58,4 +58,9 @@ If you're having any problems or if there's anything missing to get to a similar
 ## Credits
 The rofi configuration was fully made by [adi1090x](https://github.com/adi1090x/), all I did was change the opacity.
 The skydome for compiz was made by [BARDEG](https://www.xfce-look.org/p/1003000/) on xfce-look.org.
+The Oxygen theme for Emerald was made by Juan and is included in Emerald, I simply edited it to fit my uses.
+The polybar `config.ini` file was made based on the example file that comes with it.
+
+## License
+These are just dotfiles, so I don't care much about that so consider them licensed with unlicense. The obvious exception to this are files that were not initially made by me, those are included in the above credits section and should be considered to have their original license. 
 
