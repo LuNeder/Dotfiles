@@ -29,7 +29,7 @@ Make sure you have installed
 - [adi1090x's themes for Rofi](https://github.com/adi1090x/rofi)
 - ULauncher
 - Plank
-- [feather font](https://github.com/adi1090x/polybar-themes/blob/master/fonts/feather.ttf)
+- [feather font](https://github.com/adi1090x/polybar-themes/blob/master/fonts/feather.ttf) (you can install it with [font-manager](https://software.opensuse.org/package/font-manager))
 - Maybe something else I forgot
 
 ## Instaling
