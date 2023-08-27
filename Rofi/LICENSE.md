@@ -1,0 +1,1 @@
+Contents on this folder were made by [adi1090x](https://github.com/adi1090x) and therefore should follow the license on their repository, GPL3, [available here](https://github.com/adi1090x/rofi/blob/master/LICENSE)
