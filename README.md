@@ -29,6 +29,7 @@ Make sure you have installed
 - Rofi: `sudo zypper in rofi`
 - [adi1090x's themes for Rofi](https://github.com/adi1090x/rofi)
 - ULauncher
+- Plank
 - Maybe something else I forgot
 
 ## Instaling
@@ -42,8 +43,11 @@ Make sure you have installed
   ```
 - Move Polybar's `config.ini` file to `~/.config/polybar/` and `.restpolymain` to your home
 - Move (and replace) Rofi's `launcher.sh` and `style-1.rasi` to `~/.config/rofi/launchers/type-3/`
-- Open CompizConf and import Compiz's file
-
-(WIP)
+- Open CompizConf and import Compiz's file. You'll have to change skydome settings to point to the `80894-360render.jpeg` image you downloaded
+- Add `polybar main` to you XFCE's startup programs on settings
+- Import the xfce-panel file into your xfce-panel backup page
+- The Plank configuration is basically default
+- Configure keyboard shortcuts as you please
+- I think that's it!
 
 
