@@ -1,7 +1,7 @@
 # Dotfiles
 On this repository you'll find the dotfiles for my desktop
 
-![Captura de tela_2023-08-25_21-32-56](https://github.com/LuNeder/Dotfiles/assets/19750714/c95488b9-aced-486a-9ee3-a42a3b5770dd)
+![Captura de tela_2023-09-11_23-32-59](https://github.com/LuNeder/Dotfiles/assets/19750714/3e1bbdff-d004-4ae1-aeb9-586c59fc8c33)
 ![Captura de tela_2023-08-25_21-36-31](https://github.com/LuNeder/Dotfiles/assets/19750714/1ac4a3ca-8df3-4448-93f3-6ee1a96ced68)
 ![Captura de tela_2023-08-25_21-37-07](https://github.com/LuNeder/Dotfiles/assets/19750714/76f33937-5a73-4248-bed6-e4c0b433b085)
 ![Captura de tela_2023-08-25_21-37-40](https://github.com/LuNeder/Dotfiles/assets/19750714/eb5486dd-773d-4062-a4a6-2148efa9d913)
